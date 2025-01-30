@@ -175,10 +175,10 @@ header {
 
 .animalGrid2 {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
     column-gap: 35px;
-    width: 1322px;
+    width: 1161px;
 }
 
 /* 
